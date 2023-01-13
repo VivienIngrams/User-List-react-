@@ -1,0 +1,18 @@
+.user {
+    color: black;
+    background-color: white;
+
+}
+
+.user h1 {
+    background: rgb(19, 42, 105);
+    color: white;
+    border-radius: 0.5rem;
+    border: 4px solid rgb(7, 15, 37);
+    padding: 1rem;
+}
+
+.user li {
+    list-style-type: none;
+    padding: 0.1rem;
+}
